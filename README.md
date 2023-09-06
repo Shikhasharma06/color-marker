@@ -15,3 +15,4 @@ rgb/rgba -> "rgb/rgba" with (0 - 255, 0 - 255, 0 - 255) used for giving colour a
 hsl --> "hsl/hsla" with (numbers, %,%,%) used for giving hue, saturation, contranst and opacity value.
 
 box-shadow -> it is used to give shadow type styling in the boxes.
+   hosted  link  https://shikhasharma06.github.io/color-marker/index.html
